@@ -8,3 +8,4 @@ def my_find(collection)
   end
   index+=1
 end
+end
